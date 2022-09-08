@@ -10,3 +10,16 @@ ZCZC W00 5 L41 Updating TXT/mylog.txt
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00  40 L05 Quiz related and studying
 ZCZC W00 60 L99 Watch Netflix
+ZCZC W01 200 L11 Assignment #01
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 10 L03 GitHub related
+ZCZC W01 40 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 10 L64 Helping a friend (OS related problem)
+ZCZC W01 90 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 100 L70 Studying for other courses.
+ZCZC W01 5 L41 Updating TXT/mylog.txt
