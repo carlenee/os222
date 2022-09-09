@@ -23,3 +23,4 @@ ZCZC W01 10 L64 Helping a friend (OS related problem)
 ZCZC W01 90 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W01 100 L70 Studying for other courses.
 ZCZC W01 5 L41 Updating TXT/mylog.txt
+ZCZC W01 30 L05 Quiz related including studying
