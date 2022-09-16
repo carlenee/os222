@@ -14,10 +14,8 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [Cyber Security Introduction](https://www.youtube.com/watch?v=rcDO8km6R6c)<br>
+This video introduces Cyber Security
 
 <br>
 <hr>
