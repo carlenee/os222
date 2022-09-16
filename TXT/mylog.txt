@@ -25,3 +25,22 @@ ZCZC W01 100 L70 Studying for other courses.
 ZCZC W01 5 L41 Updating TXT/mylog.txt
 ZCZC W01 30 L05 Quiz related including studying
 ZCZC W02 100 L06 Reading Assignments
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 10 L13 Assignment #03
+ZCZC W02 120 L02 OS C Class
+ZCZC W02 30 L14 Assignment #04
+ZCZC W02 30 L15 Assignment #05
+ZCZC W02 30 L16 Assignment #06
+ZCZC W02 120 L02 OS C Class
+ZCZC W02 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 50 L05 Study afor OS quiz
+ZCZC W02 3 L05 OS quiz
+ZCZC W02 15 L41 update TXT/mylog.txt
+ZCZC W02 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W02 10 L01 checks SCELE/Discord announcement
+ZCZC W02 50 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 45 L70 Studying for other courses.
+ZCZC W02 200 L81 Listening: Radio, Music, etc.
+ZCZC W02 120 L87 Breakfast/Lunch/Dinner/Snake
+
+
