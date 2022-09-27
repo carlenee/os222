@@ -1,0 +1,65 @@
+#Log Format
+#ZCZC WEEK# MINUTES LogCode Description
+#LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 200 L02 Class related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 5 L41 Updating TXT/mylog.txt
+ZCZC W00 60 L10 Assignment #00
+ZCZC W00  40 L05 Quiz related and studying
+ZCZC W00 60 L99 Watch Netflix
+ZCZC W01 200 L11 Assignment #01
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 10 L03 GitHub related
+ZCZC W01 40 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 20 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W01 15 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 10 L64 Helping a friend (OS related problem)
+ZCZC W01 90 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 100 L70 Studying for other courses.
+ZCZC W01 5 L41 Updating TXT/mylog.txt
+ZCZC W01 30 L05 Quiz related including studying
+ZCZC W02 100 L06 Reading Assignments
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 10 L13 Assignment #03
+ZCZC W02 120 L02 OS C Class
+ZCZC W02 30 L14 Assignment #04
+ZCZC W02 30 L15 Assignment #05
+ZCZC W02 30 L16 Assignment #06
+ZCZC W02 120 L02 OS C Class
+ZCZC W02 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 50 L05 Study afor OS quiz
+ZCZC W02 3 L05 OS quiz
+ZCZC W02 15 L41 update TXT/mylog.txt
+ZCZC W02 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W02 10 L01 checks SCELE/Discord announcement
+ZCZC W02 50 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 45 L70 Studying for other courses.
+ZCZC W02 200 L81 Listening: Radio, Music, etc.
+ZCZC W02 120 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W03 90 L06 Reading Assignments
+ZCZC W03 120 L02 OS C Class
+ZCZC W03 30 L12 Assignment #02
+ZCZC W03 10 L13 Assignment #03
+ZCZC W03 50 L05 Study afor OS quiz
+ZCZC W03 10 L01 checks SCELE/Discord announcement
+ZCZC W03 120 L02 OS C Class Day 2
+ZCZC W03 L99 Forgot to do the quiz :(
+ZCZC W03 60 L09 Weekly Assignments
+ZCZC W03 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W03 10 L41 Update mylog.txt
+ZCZC W03 15 L43 Update myrank.txt
+ZCZC W03 40 L86 House chore
+ZCZC W03 50 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W03 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 30 L70 Studying for other courses.
+ZCZC W03 200 L81 Listening: Radio, Music, etc.
+ZCZC W03 20 L64 Helping a friend (OS related problem)
+
+
