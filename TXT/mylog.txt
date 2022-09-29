@@ -61,5 +61,22 @@ ZCZC W03 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 30 L70 Studying for other courses.
 ZCZC W03 200 L81 Listening: Radio, Music, etc.
 ZCZC W03 20 L64 Helping a friend (OS related problem)
-
-
+ZCZC W04 90 L06 Reading Assignments
+ZCZC W04 120 L02 OS C Class
+ZCZC W04 30 L11 Assignment #01
+ZCZC W04 30 L12 Assignment #02
+ZCZC W04 10 L13 Assignment #03
+ZCZC W04 50 L05 Study for OS quiz
+ZCZC W04 10 L01 checks SCELE/Discord announcement
+ZCZC W04 120 L02 OS C Class Day 2
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 10 L41 Update mylog.txt
+ZCZC W04 15 L43 Update myrank.txt
+ZCZC W04 40 L86 House chore
+ZCZC W04 50 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W04 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L70 Studying for other courses.
+ZCZC W04 200 L81 Listening: Radio, Music, etc.
+ZCZC W04 20 L64 Helping a friend (OS related problem)
