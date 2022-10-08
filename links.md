@@ -20,6 +20,8 @@ This video introduces Cyber Security
 2. [Building flexible filesystems with FUSE-Python - PyCon India 2015](https://www.youtube.com/watch?v=C2FuPxyip2A)
 This video shows how to build flexible filesystems with FUSE and how it can connects to your python code
 
+3. [Cara Kerja Virual Memori] (https://sites.google.com/a/student.unsika.ac.id/karaos/cara-kerja-virtual-memori)
+Virtual memori digunakan dengan membuat suatu file khusus yang disebut swapfile.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
