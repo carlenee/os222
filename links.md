@@ -22,6 +22,15 @@ This video shows how to build flexible filesystems with FUSE and how it can conn
 
 3. [Cara Kerja Virual Memori] (https://sites.google.com/a/student.unsika.ac.id/karaos/cara-kerja-virtual-memori)
 Virtual memori digunakan dengan membuat suatu file khusus yang disebut swapfile.
+
+WEEK 8
+
+4. [Build LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+This link helps me with the assignment
+
+5. [Complete Guide to Linux From Scratch] (https://www.educba.com/linux-from-scratch/)
+This article helps me understand LFS better
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
