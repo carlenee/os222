@@ -143,3 +143,24 @@ ZCZC W07 30 L70 Studying for other courses.
 ZCZC W07 200 L81 Listening: Radio, Music, etc.
 ZCZC W07 20 L64 Helping a friend (OS related problem)
 ZCZC W07 15 WEEK07 POPQUIZ
+ZCZC W08 90 L06 Reading Assignments
+ZCZC W08 120 L02 OS C Class
+ZCZC W08 30 L11 Assignment #01
+ZCZC W08 30 L12 Assignment #02
+ZCZC W08 10 L13 Assignment #03
+ZCZC W08 10 L13 Assignment #04
+ZCZC W08 50 L05 Study for OS quiz
+ZCZC W08 10 L01 checks SCELE/Discord announcement
+ZCZC W08 120 L02 OS C Class Day 2
+ZCZC W08 60 L09 Weekly Assignments
+ZCZC W08 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W08 10 L41 Update mylog.txt
+ZCZC W08 15 L43 Update myrank.txt
+ZCZC W08 40 L86 House chore
+ZCZC W08 50 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W08 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 30 L70 Studying for other courses.
+ZCZC W08 200 L81 Listening: Radio, Music, etc.
+ZCZC W08 20 L64 Helping a friend (OS related problem)
+ZCZC W08 15 WEEK07 POPQUIZ
