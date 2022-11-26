@@ -31,8 +31,20 @@ This link helps me with the assignment
 5. [Complete Guide to Linux From Scratch] (https://www.educba.com/linux-from-scratch/)
 This article helps me understand LFS better
 
+WEEK 9
+
+6. [Entering LFS Chroot Enviroment](https://www.linuxfromscratch.org/lfs/view/9.0/chapter06/chroot.html)
+This website show how to enter chroot enviroment
+
+7. [What is chroot](https://en.wikipedia.org/wiki/Chroot)
+This website explains what chroot is
+
+8. [LFS Chapter 6-7 How to](https://www.youtube.com/watch?v=zzxqYGHcL2c&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=8)
+This website shows lfs chapter 6-7 tutorial
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
+
